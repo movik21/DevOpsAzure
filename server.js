@@ -9,7 +9,7 @@ const HOST = '0.0.0.0';
 // App
 const app = express();
 app.get('/', (req, res) => {
-  res.send('DevOps Deployment Node-Beispiel LÄUFT, aus DockerHub im Container auf Azure& auch Updates sind sichtbar');
+  res.send('DevOps Deployment Node-Beispiel LÄUFT, aus DockerHub auf GitHub Action (:');
 });
 
 app.listen(PORT, HOST);
