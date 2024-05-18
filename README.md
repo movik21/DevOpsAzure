@@ -1,5 +1,5 @@
 # DevOps Azure Deployment
-Azure Deployments Übungen in SW13 für Lernjournal im Modul DevOps 
+Azure Deployments Übungen in SW12 für Lernjournal im Modul DevOps 
 
 Forked project for simple Node-Example deployment with the help of DockerHub and Azure
 
